@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello, World! I'm Hassan
 
-<!--
-**HassanQ7/HassanQ7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Bilkent CS Student](https://img.shields.io/badge/Bilkent%20University-Computer%20Engineering-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Freshman-green?style=flat-square)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a **Freshman Computer Engineering student at Bilkent University** embarking on my journey into software development and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 **University:** Bilkent University (Department of Computer Engineering)
+- 💡 **Interests:** Artificial Intelligence, Machine Learning, Deep Learning, and Intelligent Systems
+- 🌱 **Currently Learning:** Programming fundamentals, linear algebra basics, Git & GitHub, and AI/ML concepts
+- 🎯 **Goal:** To build intelligent software solutions and contribute to AI-driven projects
+
+### 📫 Connect with Me
+- **Email:** `hassanqureshi@ug.bilkent.edu.tr`
+- **LinkedIn:** Muhammad Hassan Qureshi(www.linkedin.com/in/muhammad-hassan-qureshi-7a3433437)
