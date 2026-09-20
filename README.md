@@ -5,7 +5,7 @@
 I am a first-year Computer Engineering student at Bilkent University with a strong focus on software development and Artificial Intelligence.
 
 ### Focus Areas
-- **Academics:** Building core foundations in programming, algorithms, and applied mathematics.
+- **Academics:** Building core foundations in programming, algorithms, and problem-solving methods.
 - **AI & ML:** Exploring machine learning concepts, intelligent systems, and practical implementations.
 - **Engineering:** Learning software design principles, version control, and efficient coding.
 
